@@ -1,4 +1,4 @@
-package edu.sintaxe.escopo;
+
 public class Conta {
     
     double saldo = 10.0;

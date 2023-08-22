@@ -1,4 +1,4 @@
-package edu.sintaxe.tiposvariaveis;
+
 public class TiposVariaveis {
     public static void main(String[] args) throws Exception {
         short numeroCurto = 1;

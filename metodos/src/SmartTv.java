@@ -1,4 +1,4 @@
-package edu.sintaxe.metodos;
+
 public class SmartTv {
     boolean estatus = false;
     int canal = 1;

@@ -1,4 +1,4 @@
-package edu.sintaxe.operadores;
+
 import java.util.Date;
 
 public class Operadores {

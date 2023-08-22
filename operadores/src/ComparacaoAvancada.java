@@ -1,4 +1,4 @@
-package edu.sintaxe.operadores;
+
 public class ComparacaoAvancada {
     public static void main(String[] args) {
         String nome1 = "JAVA";
