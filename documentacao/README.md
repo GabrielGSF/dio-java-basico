@@ -1,7 +1,3 @@
-# dio-java-basico
-Repositorio para armazenar todo o conteúdo do curso Java Básico
-Alterando o conteúdo de um arquivo de forma local...
-
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
