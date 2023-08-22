@@ -48,10 +48,11 @@ public class Operadores {
         a = 5;
         b = 6;
         String resultado2;
-        if (a==b)
+        if (a==b) {
             resultado2 = "verdadeiro";
-        else
+        } else {
             resultado2 = "falso";
+        }
         System.out.println(resultado2);
         String resultado3 = (a==b) ? "verdadeiro" : "falso";
         System.out.println(resultado3);
@@ -59,25 +60,32 @@ public class Operadores {
         //Operadores Relacionais
         int numero1 = 1;
         int numero2 = 2;
-        if(numero1 > numero2)
+        if(numero1 > numero2) {
             System.out.println("Numero 1 maior que numero 2");
-        if(numero1 < numero2)
+        }
+        if(numero1 < numero2) {
             System.out.println("Numero 1 menor que numero 2");
-        if (numero1 >= numero2)
+        }
+        if (numero1 >= numero2) {
             System.out.println("Numero 1 maior ou igual que numero 2");
-        if (numero1 <= numero2)
+        }
+        if (numero1 <= numero2) {
             System.out.println("Numero 1 menor ou igual que numero 2");
-        if (numero1 != numero2)
+        }
+        if (numero1 != numero2) {
             System.out.println("Numero 1 é diferente de numero 2");
+        }
 
         //Operadores Lógicos
         boolean condicao1=true;
         boolean condicao2=false;
         //Se condicao1 E condicao2 forem verdadeiras...
-        if(condicao1 && condicao2)
+        if(condicao1 && condicao2) {
             System.out.println("Os dois valores precisam ser verdadeiros");
+        }
         //Se condicao1 OU condicao2 for verdadeira...
-        if(condicao1 || condicao2)
+        if(condicao1 || condicao2) {
             System.out.println("Um dos valores precisa ser verdadeiro");
+        }  
     }   
 }

@@ -32,8 +32,9 @@ public class ComparacaoAvancada {
 
         int numero5 = 1;
         int numero6 = 1;
-        if(numero5 == 2 || numero6 ++ == 2)
+        if(numero5 == 2 || numero6 ++ == 2) {
             System.out.println("As 2 condições são verdadeiras");
+        }
         System.out.println("O numero 5 agora é " + numero5);
         System.out.println("O numero 6 agora é " + numero6);
 
