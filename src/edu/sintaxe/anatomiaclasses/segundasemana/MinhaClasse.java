@@ -1,4 +1,4 @@
-package edu.gabriel.segundasemana;
+package edu.sintaxe.anatomiaclasses.segundasemana;
 public class MinhaClasse {
     
 }

@@ -1,4 +1,4 @@
-package edu.gabriel.primeirasemana;
+package edu.sintaxe.anatomiaclasses.primeirasemana;
 
 public class BoletimEstudantil {
     public static void main(String [] args) {
