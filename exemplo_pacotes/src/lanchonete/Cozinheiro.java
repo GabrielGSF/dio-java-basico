@@ -36,4 +36,13 @@ public class Cozinheiro {
 	public void fritarIngredientesLanche() {
 		System.out.println("FRITANDO INGREDIENTES DO LANCHE");
 	}
+	public void pedirParaTocarGas(Atendente meuAmigo) {
+		meuAmigo.trocarGas();
+	}
+	public void pedirParaTrocarGas(Almoxarife meuAmigo) {
+		meuAmigo.trocarGas();
+	}
+	public void pedirIngredientes(Almoxarife almoxarife) {
+		almoxarife.entregarIngredientes();
+	}
 }
