@@ -1,10 +1,15 @@
 package lanchonete;
 
+import lanchonete.area.cliente.Cliente;
+import lanchonete.atendimento.Atendente;
+import lanchonete.atendimento.cozinha.Almoxarife;
+import lanchonete.atendimento.cozinha.Cozinheiro;
+
 public class Estabelecimento {
 	public static void main(String[] args) {
 		Cozinheiro cozinheiro = new Cozinheiro();
 		//ações que não precisam estarem disponíveis para toda a aplicação
-		cozinheiro.lavarIngredientes();
+		//cozinheiro.lavarIngredientes();
 		cozinheiro.baterVitaminaLiquidificador();
 		cozinheiro.selecionarIngredientesVitamina();
 		cozinheiro.prepararLanche();
