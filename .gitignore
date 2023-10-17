@@ -46,3 +46,5 @@ poo/classes/.vscode/settings.json
 poo/getters-setters/.vscode/settings.json
 poo/construtores/.vscode/settings.json
 poo/enums/src/SistemaIbge.java
+poo/exemplo-poo/.vscode/settings.json
+.gitignore
